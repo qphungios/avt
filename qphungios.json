@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "identifier": "qphungios.com",
+  "name": "AIMAVT CÂN QUÉT",
+  "description": "Zalo 0348609562  Tele @qphungios",
+  "accentColor": "#008080",
+  "icon": "assets/icon.png",
+  "packages": [
+    {
+      "identifier": "aimbotsh",
+      "name": "FFM AVT BYPASS",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmavt.3105",
+      "sha256": "5dcdac7c9a702d5c32a84f362235c751f413b606f8931f8bcff0d7d65efcbf8f",
+      "size": 1906119,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2nsns",
+      "name": "FFTH AVT BYPASS",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthavt.3105",
+      "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
+      "size": 250323,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2sb",
+      "name": "FFM AIMHEAD",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmhead.3105",
+      "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
+      "size": 2001323,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaimbot2",
+      "name": "FFTH AIMHEAD",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthhead.3105",
+      "sha256": "0009b58d92179b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
+      "size": 2571327,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    }
+  ]
+}
