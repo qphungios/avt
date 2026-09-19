@@ -19,7 +19,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/ffmavt.3105",
+      "download": "packages/ffmbypass.3105",
       "sha256": "fd2f39515857752af418035f912ba5697a147c1167c56611954308a54d4bf218",
       "size": 50831,
       "supportedOS": [
@@ -46,16 +46,9 @@
       "isPrivate": false,
       "icon": "assets/icon.png",
       "screenshots": [
-        "assets/IMG_8212.jpeg",
-        "assets/IMG_8231.jpeg",
-        "assets/IMG_8233.jpeg",
-        "assets/IMG_8235.jpeg",
-        "assets/IMG_8241.jpeg",
-        "assets/IMG_8242.jpeg",
-        "assets/IMG_8243.jpeg",
-        "assets/IMG_8244.jpeg",
-        "assets/IMG_8245.jpeg",
-        "assets/icon.png"
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
@@ -72,7 +65,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthavt.3105",
+      "download": "packages/ffthbypass.3105",
       "sha256": "a3a48b1aaec5606939951da3e02c6d8ca14be990bebab2d038646480d67e724c",
       "size": 50282,
       "supportedOS": [
@@ -99,16 +92,9 @@
       "isPrivate": false,
       "icon": "assets/icon.png",
       "screenshots": [
-        "assets/IMG_8258.jpeg",
-        "assets/IMG_8231.jpeg",
-        "assets/IMG_8233.jpeg",
-        "assets/IMG_8235.jpeg",
-        "assets/IMG_8241.jpeg",
-        "assets/IMG_8242.jpeg",
-        "assets/IMG_8243.jpeg",
-        "assets/IMG_8244.jpeg",
-        "assets/IMG_8245.jpeg",
-        "assets/icon.png"
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
@@ -152,16 +138,9 @@
       "isPrivate": false,
       "icon": "assets/icon.png",
       "screenshots": [
-        "assets/IMG_8258.jpeg",
-        "assets/IMG_8231.jpeg",
-        "assets/IMG_8233.jpeg",
-        "assets/IMG_8235.jpeg",
-        "assets/IMG_8241.jpeg",
-        "assets/IMG_8242.jpeg",
-        "assets/IMG_8243.jpeg",
-        "assets/IMG_8244.jpeg",
-        "assets/IMG_8245.jpeg",
-        "assets/icon.png"
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
@@ -205,16 +184,9 @@
       "isPrivate": false,
       "icon": "assets/icon.png",
       "screenshots": [
-        "assets/IMG_8258.jpeg",
-        "assets/IMG_8231.jpeg",
-        "assets/IMG_8233.jpeg",
-        "assets/IMG_8235.jpeg",
-        "assets/IMG_8241.jpeg",
-        "assets/IMG_8242.jpeg",
-        "assets/IMG_8243.jpeg",
-        "assets/IMG_8244.jpeg",
-        "assets/IMG_8245.jpeg",
-        "assets/icon.png"
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     }
