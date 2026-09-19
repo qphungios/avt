@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "qphungios.com",
-  "name": "AIMAVT CÂN QUÉT",
+  "name": "avatar - qphungios",
   "description": "Zalo 0348609562  Tele @qphungios",
   "accentColor": "#008080",
   "icon": "assets/icon.png",
@@ -20,8 +20,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffmbypass.3105",
-      "sha256": "fd2f39515857752af418035f912ba5697a147c1167c56611954308a54d4bf218",
-      "size": 50831,
+      "sha256": "b19d1134303e360a15021d76156d806ba0f64f3260499ce599d0dcc8b076ca3d",
+      "size": 1935749,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -66,8 +66,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthbypass.3105",
-      "sha256": "a3a48b1aaec5606939951da3e02c6d8ca14be990bebab2d038646480d67e724c",
-      "size": 50282,
+      "sha256": "189104eda79ead25d029cb500d070f45a17f41f048997915706e98b6a0f6a288",
+      "size": 2604709,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -160,6 +160,98 @@
       "download": "packages/ffthhead.3105",
       "sha256": "acfee9dbcf693a13616c0922aee17c0132a4799a909846f602ca05cebcf6e689",
       "size": 50280,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2sb",
+      "name": "FFM AIMDRAG",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmdrag.3105",
+      "sha256": "611efdedb210a78ea0b039e6390ce06e11118d84a54564754dce7c6af9f07e98",
+      "size": 50605,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaimbot2",
+      "name": "FFTH AIMDRAG",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthdrag.3105",
+      "sha256": "91806626299d0cedb044105e833e11a98f4d0435444e96b5e37e9beb75b750c8",
+      "size": 50057,
       "supportedOS": [
         {
           "minimum": "17.0",
