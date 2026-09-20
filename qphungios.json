@@ -20,8 +20,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/fixban.3105",
-      "sha256": "b19d1134303e360a15021d76156d806ba0f64f3260499ce599d0dcc8b076ca3d",
-      "size": 1935749,
+      "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
+      "size": 1369454,
       "supportedOS": [
         {
           "minimum": "17.0",
