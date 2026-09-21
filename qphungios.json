@@ -48,13 +48,14 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
     {
       "identifier": "aimbotsh",
-      "name": "FFM AVT BYPASS",
+      "name": "FFM AVT BYPASS ( SẢNH )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "admin • @qphungios",
@@ -94,13 +95,14 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
     {
       "identifier": "aimbot2nsns",
-      "name": "FFTH AVT BYPASS",
+      "name": "FFTH AVT BYPASS ( SẢNH )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "admin • @qphungios",
@@ -140,6 +142,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -186,6 +189,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -232,6 +236,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -278,6 +283,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -324,6 +330,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -370,6 +377,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -416,6 +424,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -462,6 +471,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -481,7 +491,195 @@
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthditat.3105",
       "sha256": "bcd8a720cbb17a1327f59dd00b064e2a9871703d1fff09a3fc3e96268ab8126a",
-      "size": 48484,
+      "size": 47939,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aianten",
+      "name": "FFM AIMNECK ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmneck.3105",
+      "sha256": "b7dcd0ad5895bee567416c04fff30b8f7925eb313471837901c3edba1580682a",
+      "size": 48467,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaneck",
+      "name": "FFTH AIMNECK ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthneck.3105",
+      "sha256": "6d2efef9a65ea4674d18186ff8ba28fc24bdda497acbcf60d8721c9fd3cae407",
+      "size": 47919,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimgaci",
+      "name": "FFM MAGIC ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmmagic.3105",
+      "sha256": "c576708b3a1ae13f1d4962c6adbbd4aa371f2975a423d3ad28fddd7f648c7d8e",
+      "size": 48465,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaag2cgdr",
+      "name": "FFTH MAGIC ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthmagic.3105",
+      "sha256": "8c85553a3f27f04190081eb40aa025549fa37760b302467d954045197b79a54a",
+      "size": 48461,
       "supportedOS": [
         {
           "minimum": "17.0",
