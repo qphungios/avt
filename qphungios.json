@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "qphungios.com",
   "name": "avatar - qphungios",
-  "description": "Zalo 0348609562  Tele @qphungios",
+  "description": "make by @qphungios",
   "accentColor": "#008080",
   "icon": "assets/icon.png",
   "packages": [
@@ -11,7 +11,7 @@
       "name": "fixban - qphungios",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": " Zalo 0348609562  Tele @qphungios ",
       "category": "Game",
       "tags": [
@@ -57,7 +57,7 @@
       "name": "FFM AVT BYPASS",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": " Zalo 0348609562  Tele @qphungios ",
       "category": "Game",
       "tags": [
@@ -103,7 +103,7 @@
       "name": "FFTH AVT BYPASS",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -146,10 +146,10 @@
     },
     {
       "identifier": "aimbot2sb",
-      "name": "FFM AIMHEAD",
+      "name": "FFM AIMHEAD ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -192,10 +192,10 @@
     },
     {
       "identifier": "bnhaimbot2",
-      "name": "FFTH AIMHEAD",
+      "name": "FFTH AIMHEAD ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -238,10 +238,10 @@
     },
     {
       "identifier": "aimtra2sb",
-      "name": "FFM AIMDRAG",
+      "name": "FFM AIMDRAG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -284,10 +284,10 @@
     },
     {
       "identifier": "bnhaimrag2",
-      "name": "FFTH AIMDRAG",
+      "name": "FFTH AIMDRAG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -330,10 +330,10 @@
     },
     {
       "identifier": "aimbaj",
-      "name": "FFM AIMCHEST",
+      "name": "FFM AIMCHEST ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -376,10 +376,10 @@
     },
     {
       "identifier": "bnhaag2",
-      "name": "FFTH AIMCHEST",
+      "name": "FFTH AIMCHEST ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "admin • @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -416,6 +416,99 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbajfjjv",
+      "name": "FFM AIM DỊ TẬT ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmditat.3105",
+      "sha256": "be4c157d439cfecbcecccaa7b4f7896cab001e782e66511f93e7473a1b8415c4",
+      "size": 48484,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaag2cgdr",
+      "name": "FFTH AIM DỊ TẬT ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthditat.3105",
+      "sha256": "bcd8a720cbb17a1327f59dd00b064e2a9871703d1fff09a3fc3e96268ab8126a",
+      "size": 48484,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
