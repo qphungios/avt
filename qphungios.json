@@ -7,53 +7,6 @@
   "icon": "assets/icon.png",
   "packages": [
     {
-      "identifier": "shadow",
-      "name": "fixban - qphungios",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": " Zalo 0348609562  Tele @qphungios ",
-      "category": "Game",
-      "tags": [
-        "Game",
-        "qphungios"
-      ],
-      "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/fixban.3105",
-      "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
-      "size": 1369454,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": true,
-      "isPrivate": false,
-      "icon": "assets/shadow.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
       "identifier": "aimbotsh",
       "name": "FFM AVT BYPASS ( SẢNH )",
       "author": "qphungios",
@@ -139,6 +92,53 @@
       "featured": false,
       "isPrivate": false,
       "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "shadow",
+      "name": "fixban - qphungios",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/fixban.3105",
+      "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
+      "size": 1369454,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/shadow.png",
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
