@@ -710,6 +710,194 @@
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
+    },
+    {
+      "identifier": "bungfm",
+      "name": "FFM AIM BỤNG ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmbung.3105",
+      "sha256": "b53facb7dc1f4571c87a24d681a6ad321be813fb2b11984fe9b48c0f3e7e0f41",
+      "size": 48480,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bungfth",
+      "name": "FFTH AIM BỤNG ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthbung.3105",
+      "sha256": "267c18ec2508214c2cee4dce88661602808bbbe221276af93c27b6816d4ab2f3",
+      "size": 47933,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedten",
+      "name": "FFM HEAD + ANTENA ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmheadanten.3105",
+      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
+      "size": 48475,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedfthtn",
+      "name": "FFTH HEAD + ANTENA ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthheadanten.3105",
+      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
+      "size": 47927,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
     }
   ]
 }
