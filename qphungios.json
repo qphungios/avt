@@ -19,9 +19,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/ffmbypass.3105",
-      "sha256": "b19d1134303e360a15021d76156d806ba0f64f3260499ce599d0dcc8b076ca3d",
-      "size": 1935749,
+      "download": "packages/ffmnewbypass.3105",
+      "sha256": "b06a76de90c544e16edafe6ed835a245ced20d8ae12e51793a5f2686ce6e44ea",
+      "size": 48470,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -66,9 +66,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthbypass.3105",
-      "sha256": "189104eda79ead25d029cb500d070f45a17f41f048997915706e98b6a0f6a288",
-      "size": 2604709,
+      "download": "packages/ffthnewbypass.3105",
+      "sha256": "f99a57e2e66c58f8d66badeda21ab63e4f24b8909703c3645a47d423cb6b04bd",
+      "size": 47924,
       "supportedOS": [
         {
           "minimum": "17.0",
