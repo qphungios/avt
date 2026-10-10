@@ -900,7 +900,7 @@
       "password": "qphungios"
     },
     {
-      "identifier": "hedragenHh",
+      "identifier": "dragten",
       "name": "FFM DRAG + ANTENA ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
@@ -912,7 +912,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmdraganten.3105",
+      "download": "packages/ffmheadanten.3105",
       "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
       "size": 48475,
       "supportedOS": [
@@ -947,7 +947,7 @@
       "password": "qphungios"
     },
     {
-      "identifier": "dragfthtnahah",
+      "identifier": "dragfthtn",
       "name": "FFTH DRAG + ANTENA ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
@@ -959,7 +959,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthdraganten.3105",
+      "download": "packages/ffthheadanten.3105",
       "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
       "size": 47927,
       "supportedOS": [
