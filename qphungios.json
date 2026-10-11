@@ -1195,8 +1195,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmdragv2.3105",
-      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
-      "size": 48475,
+      "sha256": "b5c02b59741ec6ac1965816985d86c4d3b6377d849bfb251332abcf5dcc32068",
+      "size": 49126,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1242,8 +1242,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthdragv2.3105",
-      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
-      "size": 47927,
+      "sha256": "770486a9a3486e35fee83d38b4b266103402e8b37ba27570ba93a2daabe2dc4e",
+      "size": 48579,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1289,8 +1289,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmbuoi.3105",
-      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
-      "size": 48475,
+      "sha256": "125532d8e5cef43d7c1356722e86814677f93054d6a4c6b3df1ebba34432482a",
+      "size": 48564,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1336,8 +1336,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthbuoi.3105",
-      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
-      "size": 47927,
+      "sha256": "7ff244fecefa4d888cf51235be7f89bf2618eeb543db2677166581bae8c6ade0",
+      "size": 48561,
       "supportedOS": [
         {
           "minimum": "17.0",
