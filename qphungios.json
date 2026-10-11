@@ -913,8 +913,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmdragantena.3105",
-      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
-      "size": 48475,
+      "sha256": "9932d959b4fd21f4279d2c56b64b4f6b6d399bfa271b3e6110b89af3421ebea2",
+      "size": 49103,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -960,8 +960,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthdragantena.3105",
-      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
-      "size": 47927,
+      "sha256": "78b1e232d125e2d09f641e75883ff891e061d7aae33325a5d5d0cbb9d18ee53b",
+      "size": 48555,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1007,8 +1007,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmbungantena.3105",
-      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
-      "size": 48475,
+      "sha256": "ee2ece9a252efd00819ae8f51b29bb5c026e89a9ed5627e636fffb9284ffd31d",
+      "size": 49120,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1054,8 +1054,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthbungantena.3105",
-      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
-      "size": 47927,
+      "sha256": "988fdb49e042e3d11377ed5a5897970e2196e3fa47ff075c75934ee0b9818e50",
+      "size": 48573,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1101,8 +1101,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmneckantena.3105",
-      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
-      "size": 48475,
+      "sha256": "5c83a97d79258035ca92028c414d1803c5cd59727c6865377801137ff7babecd",
+      "size": 43140,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1148,8 +1148,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthneckantena.3105",
-      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
-      "size": 47927,
+      "sha256": "ed7419906d60f22b03947a5b13886c6ab2b8e49dfd3ab7f5eea4f9929b75d574",
+      "size": 43136,
       "supportedOS": [
         {
           "minimum": "17.0",
