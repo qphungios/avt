@@ -195,6 +195,100 @@
       "password": "qphungios"
     },
     {
+      "identifier": "aimbot",
+      "name": "FFM AIMBOT ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmaimbot.3105",
+      "sha256": "3c67809da84de72e9f5d208c5e7575789b39b5c4ada5d0493566ab9c42572183",
+      "size": 76011,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "botaim",
+      "name": "FFTH AIMBOT ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios  ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthaimbot.3105",
+      "sha256": "b65f798e1c0bb7895945770104e1e526593e32e44a358a34f6f7bf6762e3be25",
+      "size": 76153,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
       "identifier": "aimbot2sb",
       "name": "FFM AIMHEAD ( 40% )",
       "author": "qphungios",
