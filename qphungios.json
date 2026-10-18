@@ -160,9 +160,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmhead.3105",
-      "sha256": "0195ce005482c7f7fa13a971c2da210c75767e4939674607c4591171fe745a80",
-      "size": 50828,
+      "download": "packages/ffmheadnew.3105",
+      "sha256": "09a219977959e6bb571e89184e52799606fab48e807b29283c1a6e32d960a137",
+      "size": 76012,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -208,8 +208,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthhead.3105",
-      "sha256": "acfee9dbcf693a13616c0922aee17c0132a4799a909846f602ca05cebcf6e689",
-      "size": 50280,
+      "sha256": "757ff020e3a31eca50ce86dc047d9fdf6f8ee89de1d960c9dde433d8d621585f",
+      "size": 76154,
       "supportedOS": [
         {
           "minimum": "17.0",
