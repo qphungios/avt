@@ -572,7 +572,7 @@
     },
     {
       "identifier": "aimbamm",
-      "name": "FFM AIM DỊ TẬT ( 40% )",
+      "name": "FFM SIÊU NHẸ TÂM ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "admin • @qphungios",
@@ -619,7 +619,7 @@
     },
     {
       "identifier": "bnhsj",
-      "name": "FFTH AIM DỊ TẬT ( 40% )",
+      "name": "FFTH SIÊU NHẸ TÂM ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "admin • @qphungios",
@@ -915,6 +915,100 @@
       "download": "packages/ffthbung.3105",
       "sha256": "267c18ec2508214c2cee4dce88661602808bbbe221276af93c27b6816d4ab2f3",
       "size": 47933,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "body",
+      "name": "FFM AIMBODY ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmaimbody.3105",
+      "sha256": "4f4184df5fd0948f3f9235370329ca1a7b9db1cec2252516f6ab8530f26f404b",
+      "size": 70593,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "dybo",
+      "name": "FFTH AIMBODY ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "admin • @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthaimbody.3105",
+      "sha256": "b174914a5ca72fa4548e13024f253b75e14e61b3faf9e8e7ff3a5379f2812d85",
+      "size": 70735,
       "supportedOS": [
         {
           "minimum": "17.0",
