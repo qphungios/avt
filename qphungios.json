@@ -677,9 +677,9 @@
         "avatar - qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmneck.3105",
-      "sha256": "b7dcd0ad5895bee567416c04fff30b8f7925eb313471837901c3edba1580682a",
-      "size": 48467,
+      "download": "packages/ffmneckv2.3105",
+      "sha256": "a6b331f0a07aa1ceb76998e3691685f53a5138a72db602506cda395c5c20b285",
+      "size": 76015,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -724,9 +724,9 @@
         "avatar - qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthneck.3105",
-      "sha256": "6d2efef9a65ea4674d18186ff8ba28fc24bdda497acbcf60d8721c9fd3cae407",
-      "size": 47919,
+      "download": "packages/ffthneckv2.3105",
+      "sha256": "4990efbfebd4f16b685fa078fbdd8028df88a0b425042da26761fedc4690c096",
+      "size": 76159,
       "supportedOS": [
         {
           "minimum": "17.0",
