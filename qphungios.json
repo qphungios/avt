@@ -149,7 +149,7 @@
     },
     {
       "identifier": "shadow",
-      "name": "fixban - qphungios",
+      "name": "shadow ( fixban id )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "admin • @qphungios",
@@ -160,9 +160,9 @@
         "fixban - qphungios"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/fixban.3105",
-      "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
-      "size": 1369454,
+      "download": "packages/fixbanv2.3105",
+      "sha256": "7a80a7f844dfcc0e078df374599a726f7fcbcd275523a000b1a5cb98a804f26f",
+      "size": 9865145,
       "supportedOS": [
         {
           "minimum": "17.0",
