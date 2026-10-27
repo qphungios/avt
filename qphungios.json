@@ -23,24 +23,10 @@
       "sha256": "b06a76de90c544e16edafe6ed835a245ced20d8ae12e51793a5f2686ce6e44ea",
       "size": 48470,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": true,
       "isPrivate": false,
@@ -70,24 +56,10 @@
       "sha256": "f99a57e2e66c58f8d66badeda21ab63e4f24b8909703c3645a47d423cb6b04bd",
       "size": 47924,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -106,7 +78,7 @@
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "admin • @qphungios",
-      "description": " Zalo 0348609562  Tele @qphungios ",
+      "description": " Dowload Ipa : https://ipas.cc/wcbqm1 ",
       "category": "Game",
       "tags": [
         "Game",
@@ -117,24 +89,10 @@
       "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
       "size": 1369454,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": true,
       "isPrivate": false,
@@ -164,24 +122,10 @@
       "sha256": "7a80a7f844dfcc0e078df374599a726f7fcbcd275523a000b1a5cb98a804f26f",
       "size": 9865145,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": true,
       "isPrivate": false,
@@ -211,24 +155,10 @@
       "sha256": "3c67809da84de72e9f5d208c5e7575789b39b5c4ada5d0493566ab9c42572183",
       "size": 76011,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -258,24 +188,10 @@
       "sha256": "b65f798e1c0bb7895945770104e1e526593e32e44a358a34f6f7bf6762e3be25",
       "size": 76153,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -305,24 +221,10 @@
       "sha256": "09a219977959e6bb571e89184e52799606fab48e807b29283c1a6e32d960a137",
       "size": 76012,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -352,24 +254,10 @@
       "sha256": "757ff020e3a31eca50ce86dc047d9fdf6f8ee89de1d960c9dde433d8d621585f",
       "size": 76154,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -399,24 +287,10 @@
       "sha256": "611efdedb210a78ea0b039e6390ce06e11118d84a54564754dce7c6af9f07e98",
       "size": 50605,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -446,24 +320,10 @@
       "sha256": "91806626299d0cedb044105e833e11a98f4d0435444e96b5e37e9beb75b750c8",
       "size": 50057,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -493,24 +353,10 @@
       "sha256": "e12671fc64f2281e212de2b4e820e1eea38c62aad6ee48350e79e9090fbd0849",
       "size": 42505,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -540,24 +386,10 @@
       "sha256": "3bacfc4626a0b10f5e52761db9d7317846ff45c127378a8575bbd0fc7de103ec",
       "size": 42501,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -587,24 +419,10 @@
       "sha256": "be4c157d439cfecbcecccaa7b4f7896cab001e782e66511f93e7473a1b8415c4",
       "size": 48484,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -634,24 +452,10 @@
       "sha256": "bcd8a720cbb17a1327f59dd00b064e2a9871703d1fff09a3fc3e96268ab8126a",
       "size": 47939,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -681,24 +485,10 @@
       "sha256": "a6b331f0a07aa1ceb76998e3691685f53a5138a72db602506cda395c5c20b285",
       "size": 76015,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -728,24 +518,10 @@
       "sha256": "4990efbfebd4f16b685fa078fbdd8028df88a0b425042da26761fedc4690c096",
       "size": 76159,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -775,24 +551,10 @@
       "sha256": "c576708b3a1ae13f1d4962c6adbbd4aa371f2975a423d3ad28fddd7f648c7d8e",
       "size": 48465,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -822,24 +584,10 @@
       "sha256": "8c85553a3f27f04190081eb40aa025549fa37760b302467d954045197b79a54a",
       "size": 48461,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -869,24 +617,10 @@
       "sha256": "b53facb7dc1f4571c87a24d681a6ad321be813fb2b11984fe9b48c0f3e7e0f41",
       "size": 48480,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -916,24 +650,10 @@
       "sha256": "267c18ec2508214c2cee4dce88661602808bbbe221276af93c27b6816d4ab2f3",
       "size": 47933,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -963,24 +683,10 @@
       "sha256": "4f4184df5fd0948f3f9235370329ca1a7b9db1cec2252516f6ab8530f26f404b",
       "size": 70593,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1010,24 +716,10 @@
       "sha256": "b174914a5ca72fa4548e13024f253b75e14e61b3faf9e8e7ff3a5379f2812d85",
       "size": 70735,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1057,24 +749,10 @@
       "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
       "size": 48475,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1104,24 +782,10 @@
       "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
       "size": 47927,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1151,24 +815,10 @@
       "sha256": "9932d959b4fd21f4279d2c56b64b4f6b6d399bfa271b3e6110b89af3421ebea2",
       "size": 49103,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1198,24 +848,10 @@
       "sha256": "78b1e232d125e2d09f641e75883ff891e061d7aae33325a5d5d0cbb9d18ee53b",
       "size": 48555,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1245,24 +881,10 @@
       "sha256": "ee2ece9a252efd00819ae8f51b29bb5c026e89a9ed5627e636fffb9284ffd31d",
       "size": 49120,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1292,24 +914,10 @@
       "sha256": "988fdb49e042e3d11377ed5a5897970e2196e3fa47ff075c75934ee0b9818e50",
       "size": 48573,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1339,24 +947,10 @@
       "sha256": "5c83a97d79258035ca92028c414d1803c5cd59727c6865377801137ff7babecd",
       "size": 43140,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1386,24 +980,10 @@
       "sha256": "ed7419906d60f22b03947a5b13886c6ab2b8e49dfd3ab7f5eea4f9929b75d574",
       "size": 43136,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1433,24 +1013,10 @@
       "sha256": "b5c02b59741ec6ac1965816985d86c4d3b6377d849bfb251332abcf5dcc32068",
       "size": 49126,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1480,24 +1046,10 @@
       "sha256": "770486a9a3486e35fee83d38b4b266103402e8b37ba27570ba93a2daabe2dc4e",
       "size": 48579,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1527,24 +1079,10 @@
       "sha256": "125532d8e5cef43d7c1356722e86814677f93054d6a4c6b3df1ebba34432482a",
       "size": 48564,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
@@ -1574,24 +1112,10 @@
       "sha256": "7ff244fecefa4d888cf51235be7f89bf2618eeb543db2677166581bae8c6ade0",
       "size": 48561,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
       ],
       "featured": false,
       "isPrivate": false,
