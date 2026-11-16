@@ -7,7 +7,7 @@
   "icon": "assets/icon.png",
   "packages": [
     {
-      "identifier": "aimbotsh",
+      "identifier": "bypass",
       "name": "BYPASS ANTI • SAFE ( SẢNH )",
       "author": "qphungios",
       "version": "1.0.0",
@@ -20,8 +20,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/bypass.3105",
-      "sha256": "b06a76de90c544e16edafe6ed835a245ced20d8ae12e51793a5f2686ce6e44ea",
-      "size": 48470,
+      "sha256": "fe2abfc68d0c322787b8ed9f8ba50cc239081eb202bf9f83a594d1ee7f5c144f",
+      "size": 313842,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -74,7 +74,7 @@
     },
     {
       "identifier": "shadow",
-      "name": " FIXBAN ID ( BẬT SẢNH )",
+      "name": " FIXBAN IP ( BẬT SẢNH )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -119,8 +119,41 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/aimbot.3105",
-      "sha256": "3c67809da84de72e9f5d208c5e7575789b39b5c4ada5d0493566ab9c42572183",
-      "size": 76011,
+      "sha256": "6aab72dc2a885fe2da88af9d7595b493492df04049278eb36ee208bf94068851",
+      "size": 47915,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimneck",
+      "name": "FFVN AIMNECK ( 40% )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
+      "tags": [
+        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
+        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/neck.3105",
+      "sha256": "125add32fc59c96a8e29c326d979f388a55e1d9dd9312c1da8b03266ca659a47",
+      "size": 48540,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -152,8 +185,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/drag.3105",
-      "sha256": "b65f798e1c0bb7895945770104e1e526593e32e44a358a34f6f7bf6762e3be25",
-      "size": 76153,
+      "sha256": "66b3e977925c43b19eed7e7b80217015b486adf13daa16eb1713a7535baa3ebe",
+      "size": 48540,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -185,8 +218,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/head.3105",
-      "sha256": "09a219977959e6bb571e89184e52799606fab48e807b29283c1a6e32d960a137",
-      "size": 76012,
+      "sha256": "794d5de036dc0b5ab204db79c3c44e1877690363795deaed2c374bd527e46a51",
+      "size": 48540,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -218,8 +251,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/body.3105",
-      "sha256": "757ff020e3a31eca50ce86dc047d9fdf6f8ee89de1d960c9dde433d8d621585f",
-      "size": 76154,
+      "sha256": "30e5f1696c7e9a406f533db1655e70fdc51910adbde01479b120d5f79da04b83",
+      "size": 42497,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -284,8 +317,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/sieunhe.3105",
-      "sha256": "91806626299d0cedb044105e833e11a98f4d0435444e96b5e37e9beb75b750c8",
-      "size": 50057,
+      "sha256": "01ba40c3929aa27a221f77d26154c2dfc87f36fe76caae689348bb36e5ef8d29",
+      "size": 48465,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -350,8 +383,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/magic.3105",
-      "sha256": "3bacfc4626a0b10f5e52761db9d7317846ff45c127378a8575bbd0fc7de103ec",
-      "size": 42501,
+      "sha256": "a5224e740b091a13e8d29512dae1d2edf0cf916ae6cd703ec707fab16dc99fd9",
+      "size": 48538,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -383,8 +416,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/buoi.3105",
-      "sha256": "be4c157d439cfecbcecccaa7b4f7896cab001e782e66511f93e7473a1b8415c4",
-      "size": 48484,
+      "sha256": "a82b6c53cbfa1abb83330b998bebff1e8cf670f77e5fe5d64a6279734a1c45be",
+      "size": 47928,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -416,8 +449,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/dragv1.3105",
-      "sha256": "bcd8a720cbb17a1327f59dd00b064e2a9871703d1fff09a3fc3e96268ab8126a",
-      "size": 47939,
+      "sha256": "54e7476df810a9667a632f46beafde7c3c8083bac3f285b71157a59ac731016a",
+      "size": 48484,
       "supportedOS": [
     {
       "minimum": "15.0",
