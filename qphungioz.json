@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "qphungios.com",
-  "name": "𝐀𝐝𝐦𝐢𝐧 • 𝐅𝐫𝐞𝐞 𝐅𝐢𝐫𝐞 𝐕𝐍",
+  "name": "𝐀𝐯𝐚𝐭𝐚𝐫 • 𝐅𝐫𝐞𝐞 𝐅𝐢𝐫𝐞 𝐕𝐍",
   "description": "make by @qphungios",
   "accentColor": "#008080",
   "icon": "assets/icon.png",
@@ -316,7 +316,7 @@
         "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/sieunhe.3105",
+      "download": "packages/nhetam.3105",
       "sha256": "01ba40c3929aa27a221f77d26154c2dfc87f36fe76caae689348bb36e5ef8d29",
       "size": 48465,
       "supportedOS": [
