@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "identifier": "qphungios.com",
-  "name": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐬𝐭𝐨𝐫𝐞 )",
+  "name": "𝐀𝐝𝐦𝐢𝐧 • 𝐅𝐫𝐞𝐞 𝐅𝐢𝐫𝐞 𝐕𝐍",
   "description": "make by @qphungios",
   "accentColor": "#008080",
   "icon": "assets/icon.png",
   "packages": [
     {
       "identifier": "aimbotsh",
-      "name": "FFM AVT BYPASS ( SẢNH )",
+      "name": "BYPASS ANTI • SAFE ( SẢNH )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -40,49 +40,16 @@
       "password": "qphungios"
     },
     {
-      "identifier": "aimbot2nsns",
-      "name": "FFTH AVT BYPASS ( SẢNH )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-      "tags": [
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthnewbypass.3105",
-      "sha256": "f99a57e2e66c58f8d66badeda21ab63e4f24b8909703c3645a47d423cb6b04bd",
-      "size": 47924,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
       "identifier": "dns",
       "name": " DNS - ( 53b3a5 ) ",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
       "description": " Dowload Ipa : https://ipas.cc/wcbqm1 ",
-      "category": "fixban",
+      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐟𝐢𝐱𝐛𝐚𝐧 )",
       "tags": [
-        "fixban",
-        "fixban"
+        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐟𝐢𝐱𝐛𝐚𝐧 )",
+        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐟𝐢𝐱𝐛𝐚𝐧 )"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/shadow.3105",
@@ -112,10 +79,10 @@
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
       "description": " Dowload Ipa : https://ipas.cc/squzdg ",
-      "category": "fixban",
+      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐟𝐢𝐱𝐛𝐚𝐧 )",
       "tags": [
-        "fixban",
-        "fixban"
+        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐟𝐢𝐱𝐛𝐚𝐧 )",
+        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐟𝐢𝐱𝐛𝐚𝐧 )"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/fixbanv2.3105",
@@ -140,7 +107,7 @@
     },
     {
       "identifier": "aimbot",
-      "name": "FFM AIMBOT ( 40% )",
+      "name": "FFVN AIMBOT ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -173,7 +140,7 @@
     },
     {
       "identifier": "botaim",
-      "name": "FFTH AIMBOT ( 40% )",
+      "name": "FFVN AIMDRAG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -206,7 +173,7 @@
     },
     {
       "identifier": "aimbot2sb",
-      "name": "FFM AIMHEAD ( 40% )",
+      "name": "FFVN AIMHEAD ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -239,7 +206,7 @@
     },
     {
       "identifier": "bnhaimbot2",
-      "name": "FFTH AIMHEAD ( 40% )",
+      "name": "FFVN AIMBODY ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -272,7 +239,7 @@
     },
     {
       "identifier": "aimtra2sb",
-      "name": "FFM AIMDRAG ( 40% )",
+      "name": "FFVN AIMBỤNG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -305,7 +272,7 @@
     },
     {
       "identifier": "bnhaimrag2",
-      "name": "FFTH AIMDRAG ( 40% )",
+      "name": "FFVN SIEUNHETAM ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -338,7 +305,7 @@
     },
     {
       "identifier": "aimbaj",
-      "name": "FFM AIMCHEST ( 40% )",
+      "name": "FFVN AIMCHEST ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -371,7 +338,7 @@
     },
     {
       "identifier": "bnhaag2hh",
-      "name": "FFTH AIMCHEST ( 40% )",
+      "name": "FFVN AIMMAGIC ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -404,7 +371,7 @@
     },
     {
       "identifier": "aimbamm",
-      "name": "FFM SIÊU NHẸ TÂM ( 40% )",
+      "name": "FFVN AIMBUỒI ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -437,7 +404,7 @@
     },
     {
       "identifier": "bnhsj",
-      "name": "FFTH SIÊU NHẸ TÂM ( 40% )",
+      "name": "FFVN DRAGCANCAP ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -451,138 +418,6 @@
       "download": "packages/ffthditat.3105",
       "sha256": "bcd8a720cbb17a1327f59dd00b064e2a9871703d1fff09a3fc3e96268ab8126a",
       "size": 47939,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "aiantendj",
-      "name": "FFM AIMNECK ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-      "tags": [
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmneckv2.3105",
-      "sha256": "a6b331f0a07aa1ceb76998e3691685f53a5138a72db602506cda395c5c20b285",
-      "size": 76015,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "dbnhaneck",
-      "name": "FFTH AIMNECK ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-      "tags": [
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthneckv2.3105",
-      "sha256": "4990efbfebd4f16b685fa078fbdd8028df88a0b425042da26761fedc4690c096",
-      "size": 76159,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "naimgaci",
-      "name": "FFM MAGIC ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-      "tags": [
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmmagic.3105",
-      "sha256": "c576708b3a1ae13f1d4962c6adbbd4aa371f2975a423d3ad28fddd7f648c7d8e",
-      "size": 48465,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "bnGuc",
-      "name": "FFTH MAGIC ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-      "tags": [
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )",
-        "𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬 ( 𝐚𝐯𝐚𝐭𝐚𝐫 )"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthmagic.3105",
-      "sha256": "8c85553a3f27f04190081eb40aa025549fa37760b302467d954045197b79a54a",
-      "size": 48461,
       "supportedOS": [
     {
       "minimum": "15.0",
