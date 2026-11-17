@@ -284,8 +284,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/bung.3105",
-      "sha256": "611efdedb210a78ea0b039e6390ce06e11118d84a54564754dce7c6af9f07e98",
-      "size": 50605,
+      "sha256": "df1dc08db6043a3735781d687fa97a0d1e1132e3192821930d5d02ce74380658",
+      "size": 48552,
       "supportedOS": [
     {
       "minimum": "15.0",
