@@ -350,8 +350,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/chest.3105",
-      "sha256": "e12671fc64f2281e212de2b4e820e1eea38c62aad6ee48350e79e9090fbd0849",
-      "size": 42505,
+      "sha256": "4cd0fa71b4b8c6bd037bdaa3aafb66d83cc588ca209e73ef130c898abe1450db",
+      "size": 42498,
       "supportedOS": [
     {
       "minimum": "15.0",
