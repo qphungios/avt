@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "qphungios.com",
-  "name": "𝐀𝐯𝐚𝐭𝐚𝐫 • 𝐅𝐫𝐞𝐞 𝐅𝐢𝐫𝐞 𝐕𝐍",
+  "name": "𝐇𝟒𝐜𝐤 • 𝐅𝐫𝐞𝐞 𝐅𝐢𝐫𝐞 𝐕𝐍",
   "description": "make by @qphungios",
   "accentColor": "#008080",
   "icon": "assets/icon.png",
@@ -103,7 +103,7 @@
         "assets/IMG_3456.png",
         "assets/IMG_1208.png"
       ],
-      "password": "@qphungios"
+      "password": "qphungios"
     },
     {
       "identifier": "aimbot",
