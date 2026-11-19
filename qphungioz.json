@@ -470,7 +470,7 @@
     },
     {
       "identifier": "draganten",
-      "name": "𝐅𝐅𝐕𝐍 𝐃𝐑𝐀G ANTEN ( 𝟒𝟎% )",
+      "name": "𝐅𝐅𝐕𝐍 𝐃𝐑𝐀𝐆 + 𝐀𝐍𝐓𝐄𝐍 ( 𝟒𝟎% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -482,8 +482,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/draganten.3105",
-      "sha256": "54e7476df810a9667a632f46beafde7c3c8083bac3f285b71157a59ac731016a",
-      "size": 48484,
+      "sha256": "feec2948667f5db470468cf5de25207fa96afb72bf054cd283b47d0b10ae6d8b",
+      "size": 48475,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -503,7 +503,7 @@
     },
     {
       "identifier": "headanten",
-      "name": "𝐅𝐅𝐕𝐍 HEAD ANTEN ( 𝟒𝟎% )",
+      "name": "𝐅𝐅𝐕𝐍 𝐇𝐄𝐀𝐃 + 𝐀𝐍𝐓𝐄𝐍 ( 𝟒𝟎% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -515,8 +515,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/headanten.3105",
-      "sha256": "54e7476df810a9667a632f46beafde7c3c8083bac3f285b71157a59ac731016a",
-      "size": 48484,
+      "sha256": "b7c87b562ce6cf959ac7d1f819bb108cebfb9f6f3bceea7ab112be2df660d0cd",
+      "size": 47931,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -536,7 +536,7 @@
     },
     {
       "identifier": "neckanten",
-      "name": "𝐅𝐅𝐕𝐍 NECK ANTEN ( 𝟒𝟎% )",
+      "name": "𝐅𝐅𝐕𝐍 𝐍𝐄𝐂𝐊 + 𝐀𝐍𝐓𝐄𝐍 ( 𝟒𝟎% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -548,8 +548,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/neckanten.3105",
-      "sha256": "54e7476df810a9667a632f46beafde7c3c8083bac3f285b71157a59ac731016a",
-      "size": 48484,
+      "sha256": "6c4b15cccc0bb8152ab1cabbdfc31d9d96871450e3c7d1e7239c62ae57e594ab",
+      "size": 47931,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -569,7 +569,7 @@
     },
     {
       "identifier": "bunganten",
-      "name": "𝐅𝐅𝐕𝐍 BỤNG ANTEN ( 𝟒𝟎% )",
+      "name": "𝐅𝐅𝐕𝐍 𝐁𝐔̣𝐍𝐆 + 𝐀𝐍𝐓𝐄𝐍 ( 𝟒𝟎% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -581,8 +581,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/bunganten.3105",
-      "sha256": "54e7476df810a9667a632f46beafde7c3c8083bac3f285b71157a59ac731016a",
-      "size": 48484,
+      "sha256": "a5fbcfbc32ef0a39bc3cee9fc527f0982dc84cb53609c0927742cdc1c76a88dc",
+      "size": 48500,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -602,7 +602,7 @@
     },
     {
       "identifier": "magicanten",
-      "name": "𝐅𝐅𝐕𝐍 MAGIC ANTEN ( 𝟒𝟎% )",
+      "name": "𝐅𝐅𝐕𝐍 𝐌𝐀𝐆𝐈𝐂 + 𝐀𝐍𝐓𝐄𝐍 ( 𝟒𝟎% )",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "𝐚𝐝𝐦𝐢𝐧 • 𝐪𝐩𝐡𝐮𝐧𝐠𝐢𝐨𝐬",
@@ -614,8 +614,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/magicanten.3105",
-      "sha256": "54e7476df810a9667a632f46beafde7c3c8083bac3f285b71157a59ac731016a",
-      "size": 48484,
+      "sha256": "4d0c8e0570f5c19aa03b5baf2cc4ce7ad6707005c63e613ea815e2649a0f9d68",
+      "size": 47932,
       "supportedOS": [
     {
       "minimum": "15.0",
